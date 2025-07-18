@@ -1,0 +1,168 @@
+[
+    {
+        "enemy": "Soldado Dao Fei",
+        "description": "Criminoso raso treinado para missões de intimidação. Ganância.",
+        "fatigue": 4,
+        "advancedTechniques": [
+            2,
+            13,
+            15
+        ]
+    },
+    {
+        "enemy": "Mercenário das Terras Secas",
+        "description": "Mercenário endurecido por batalhas nos desertos e planícies áridas. Poder.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            4,
+            15,
+            20
+        ]
+    },
+    {
+        "enemy": "Ladrão das Sombras",
+        "description": "Especialista em furtividade e ataques rápidos, difícil de capturar. Ambição.",
+        "fatigue": 3,
+        "advancedTechniques": [
+            5,
+            9,
+            23
+        ]
+    },
+    {
+        "enemy": "Guerreiro Tribo da Água",
+        "description": "Lutador da Tribo da Água, domina técnicas de combate fluido e controle de terreno. Sabedoria.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            1,
+            10,
+            25
+        ]
+    },
+    {
+        "enemy": "Sentinela do Reino da Terra",
+        "description": "Guarda fortemente armado e defensivo, ideal para proteger posições. Proteção.",
+        "fatigue": 6,
+        "advancedTechniques": [
+            7,
+            17,
+            21
+        ]
+    },
+    {
+        "enemy": "Acrobata do Circo Nômade",
+        "description": "Artista marcial ágil, usa o ambiente para movimentos acrobáticos. Liberdade.",
+        "fatigue": 4,
+        "advancedTechniques": [
+            9,
+            16,
+            29
+        ]
+    },
+    {
+        "enemy": "Guarda da Nação do Fogo",
+        "description": "Soldado disciplinado da Nação do Fogo, especialista em combate ofensivo. Honra.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            6,
+            18,
+            24
+        ]
+    },
+    {
+        "enemy": "Caçador de Recompensas",
+        "description": "Rastreador implacável, hábil em capturar alvos vivos ou mortos. Fama.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            4,
+            14,
+            15
+        ]
+    },
+    {
+        "enemy": "Bandido da Estrada",
+        "description": "Salteador oportunista que embosca viajantes desavisados. Ganância.",
+        "fatigue": 4,
+        "advancedTechniques": [
+            2,
+            4,
+            22
+        ]
+    },
+    {
+        "enemy": "Monge Guerreiro",
+        "description": "Discípulo de templo, combina filosofia com técnicas letais de combate. Tradição.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            9,
+            14,
+            23
+        ]
+    },
+    {
+        "enemy": "Pirata do Mar Nebuloso",
+        "description": "Pirata nômade dos mares, especialista em combates caóticos e emboscadas. Ambição.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            1,
+            11,
+            25
+        ]
+    },
+    {
+        "enemy": "Mestre de Bastão",
+        "description": "Combatente que domina o bastão como extensão do próprio corpo. Poder.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            8,
+            14,
+            27
+        ]
+    },
+    {
+        "enemy": "Miliciano Local",
+        "description": "Voluntário armado da população local, luta para proteger sua terra. Proteção.",
+        "fatigue": 4,
+        "advancedTechniques": [
+            7,
+            8,
+            26
+        ]
+    },
+    {
+        "enemy": "Espadachim Nômade",
+        "description": "Viajante solitário com técnica de espada refinada e mortal. Disciplina.",
+        "fatigue": 6,
+        "advancedTechniques": [
+            4,
+            15,
+            24
+        ]
+    },
+    {
+        "enemy": "Domador de Animais",
+        "description": "Especialista em controlar e lutar ao lado de feras treinadas. Liberdade.",
+        "fatigue": 5,
+        "advancedTechniques": [
+            14,
+            22,
+            28
+        ]
+    },
+    {
+        "enemy": "Dio",
+        "description": "Dupla de mercenários apaixonados, contratados para intimidar Makapu. Ganância.",
+        "fatigue": 4,
+        "advancedTechniques": [
+            6
+        ]
+    },
+    {
+        "enemy": "Renji",
+        "description": "Dupla de mercenários apaixonados, contratados para intimidar Makapu. Ganância.",
+        "fatigue": 4,
+        "advancedTechniques": [
+            15
+        ]
+    }
+]

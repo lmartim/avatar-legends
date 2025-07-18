@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0,
+        "approach": "Defender",
+        "techniques": 
+        [
+            {
+                "technique": "Preparar",
+                "description": "Marque -1 Fadiga para preparar a si ou ao ambiente, impondo ou removendo um status apropriado a você ou aos personagens próximos."
+            },
+            {
+                "technique": "Retaliar",
+                "description": "Se fortalecer para aguentar os golpes deles. Cada vez que um inimigo infligir Fadiga, uma condição ou alterar seu equilíbrio nesta troca, inflija -1 Fadiga nesse inimigo."
+            },
+            {
+                "technique": "Tomar uma Posição",
+                "description": "Se mova para um novo local. Engaje ou desengaje um oponente, supere um obstáculo ou perigo, estabeleça uma posição vantajosa ou escape da cena. Qualquer oponente engajado com você pode marcar -1 Fadiga para bloquear essa técnica."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "approach": "Avançar",
+        "techniques": 
+        [
+            {
+                "technique": "Golpear",
+                "description": "Golpeie um oponente ao seu alcance, forçando-o a marcar -2 Fadiga, marcar uma condição ou mudar seu equilíbrio para longe do centro, à escolha dele. Marque -1 Fadiga para escolher fustigar ele com seus golpes, forçando-o a marcar -2 Fadiga, ou ataque no ponto fraco dele, infligindo uma condição."
+            },
+            {
+                "technique": "Pressionar",
+                "description": "Impressionar ou intimidar um oponente. Escolha uma abordagem, seu oponente não poderá usar essa abordagem na próxima troca."
+            },
+            {
+                "technique": "Esmagar",
+                "description": "Marque -1 Fadiga para destruir ou desestabilizar algo no ambiente, possivelmente infligindo ou superando um status positivo ou negativo apropriado."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "approach": "Evadir",
+        "techniques": 
+        [
+            {
+                "technique": "Testar Equilíbro",
+                "description": "Marque -1 Fadiga para desafiar o equilíbrio de um oponente engajado. Pergunte a ele qual é seu princípio, ele deverá responder honestamente. Se você já souber  o princípio dele, mude o equilíbrio do oponente para longe do centro ao questionar ou desafiar suas crenças e perspectivas."
+            },
+            {
+                "technique": "Reforçar ou Debilitar",
+                "description": "Ajude ou sabote um personagem próximo, infligindo um status apropriado."
+            },
+            {
+                "technique": "Dedicar",
+                "description": "Se centrar em meio à batalha. Mude seu equilíbrio rumo a um dos seus princípios da próxima vez que você assumir aquele princípio, não marque Fadiga."
+            }
+        ]
+    }
+]
